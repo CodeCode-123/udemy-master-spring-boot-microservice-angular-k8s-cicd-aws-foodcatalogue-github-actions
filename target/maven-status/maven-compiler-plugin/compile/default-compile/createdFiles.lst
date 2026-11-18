@@ -1,0 +1,8 @@
+com/codecode/foodcatalogue/dto/FoodCataloguePage.class
+com/codecode/foodcatalogue/dto/FoodItemDTO.class
+com/codecode/foodcatalogue/repository/FoodItemRepo.class
+com/codecode/foodcatalogue/service/FoodCatalogueService.class
+com/codecode/foodcatalogue/FoodcatalogueApplication.class
+com/codecode/foodcatalogue/dto/RestaurantDTO.class
+com/codecode/foodcatalogue/entity/FoodItem.class
+com/codecode/foodcatalogue/controller/FoodCatalogueController.class
