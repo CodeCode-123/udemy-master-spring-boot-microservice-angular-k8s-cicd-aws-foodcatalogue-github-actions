@@ -1,1 +1,1 @@
-# udemy-master-spring-boot-microservice-angular-k8s-cicd-aws-foodcatalogue
+# udemy-master-spring-boot-microservice-angular-k8s-cicd-aws-foodcatalogue-github-actions
