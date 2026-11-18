@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.codecode.foodcatalogue.controller.FoodCatalogueControllerTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.636 s -- in com.codecode.foodcatalogue.controller.FoodCatalogueControllerTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.614 s -- in com.codecode.foodcatalogue.controller.FoodCatalogueControllerTest
