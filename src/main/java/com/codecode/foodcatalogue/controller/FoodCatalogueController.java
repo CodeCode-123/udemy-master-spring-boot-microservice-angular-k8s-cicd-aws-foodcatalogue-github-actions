@@ -17,7 +17,6 @@ import java.util.List;
 public class FoodCatalogueController {
     private final FoodCatalogueService foodCatalogueService;
 
-
     @Autowired
     public FoodCatalogueController(FoodCatalogueService foodCatalogueService) {
         this.foodCatalogueService = foodCatalogueService;
